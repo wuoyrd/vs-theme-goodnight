@@ -1,1 +1,12 @@
-# vs-theme-goodnight
+# Goodnight Theme
+
+…
+
+## Installation
+
+…
+
+## License
+
+[MIT License](./LICENSE)
+
