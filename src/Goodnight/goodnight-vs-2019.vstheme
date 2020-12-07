@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Goodnight (14)" GUID="{f16cb907-bfdc-4bd6-9ad6-0cce97be6164}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Goodnight (15)" GUID="{2dcf0f25-8549-4468-9553-f68a2166fa93}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8455,7 +8455,7 @@
         <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF4B6EAF" />
+        <Background Type="CT_RAW" Source="FF67A6E6" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SelectedItemInactive">
@@ -8470,7 +8470,7 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="SelectedItemActiveGlyphMouseOver">
-        <Background Type="CT_RAW" Source="FFCACACA" />
+        <Background Type="CT_RAW" Source="FFD9D9D9" />
       </Color>
       <Color Name="Glyph">
         <Background Type="CT_RAW" Source="FFADADAD" />
@@ -8479,7 +8479,7 @@
         <Background Type="CT_RAW" Source="FFCACACA" />
       </Color>
       <Color Name="SelectedItemActiveGlyph">
-        <Background Type="CT_RAW" Source="FFADADAD" />
+        <Background Type="CT_RAW" Source="FF537CA6" />
       </Color>
       <Color Name="DragOverItem">
         <Background Type="CT_RAW" Source="FF4B6EAF" />
