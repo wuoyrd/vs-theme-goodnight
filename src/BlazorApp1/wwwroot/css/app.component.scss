@@ -1,0 +1,78 @@
+﻿@import './variables';
+
+.esh-app {
+    &-footer {
+        $margin: 2.5rem;
+        $padding: 2.5rem;
+
+        background-color: $color-background-darker;
+        border-top: $border-light solid $color-foreground-bright;
+        margin-top: $margin;
+        padding-bottom: $padding;
+        padding-top: $padding;
+        width: 100%;
+
+        $height: 50px;
+
+        &-brand {
+            height: $height;
+            width: 230px;
+        }
+    }
+
+    &-header {
+        margin: 15px;
+    }
+}
+
+@mixin reset-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@mixin horizontal-list {
+    @include reset-list;
+
+    li {
+        display: inline-block;
+
+        margin: {
+            left: -2px;
+            right: 2em;
+        }
+    }
+}
+
+nav ul {
+    @include horizontal-list;
+}
+
+
+@mixin flex {
+    // write the css here
+    display: -webkit-flex;
+    display: flex;
+}
+
+@mixin grid($flex: true) {
+    // code goes in here
+    @if $flex {
+        @include flex;
+    }
+    @else {
+        display: block;
+    }
+}
+
+
+@include grid(true);
+
+
+@mixin padding($values) {
+    @each $var in $values {
+        padding: #{$var};
+    }
+}
+
+@include padding(2px 4px 6px);

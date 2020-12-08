@@ -5,8 +5,7 @@
         <DisplayName>Goodnight Theme</DisplayName>
         <Description xml:space="preserve">A dark theme for Visual Studio</Description>
         <MoreInfo>https://github.com/wuoyrd/vs-theme-goodnight</MoreInfo>
-        <ReleaseNotes>ReleaseNotes.txt</ReleaseNotes>
-        <Icon>GoodnightTheme_Icon_90x.png</Icon>
+        <Icon>icon.png</Icon>
         <Preview>true</Preview>
     </Metadata>
     <Installation>
