@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Goodnight (19)" GUID="{0e2f8c52-8b97-402c-a77d-920ea554ad76}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Goodnight" GUID="{0e2f8c52-8b97-402c-a77d-920ea554ad76}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
