@@ -20,15 +20,15 @@ indent_style = tab
 
 # XML project files
 [*.{csproj,vcxproj.filters,proj,projitems,shproj}]
-indent_size = 2
+indent_size = 4
 
 # XML config files
 [*.{xml,config,props,targets,nuspec,resx,ruleset,vsixmanifest,vsct}]
-indent_size = 2
+indent_size = 4
 
 # JSON files
 [*.{json,json5,webmanifest}]
-indent_size = 2
+indent_size = 4
 
 # YAML files
 [*.{yml,yaml}]
@@ -40,7 +40,7 @@ trim_trailing_whitespace = false
 
 # Web files
 [*.{htm,html,js,jsm,ts,tsx,css,sass,scss,less,svg,vue}]
-indent_size = 2
+indent_size = 4
 
 [*.{cmd,bat}]
 end_of_line = crlf
@@ -48,4 +48,4 @@ end_of_line = crlf
 # Shell script files
 [*.sh]
 end_of_line = lf
-indent_size = 2
+indent_size = 4
