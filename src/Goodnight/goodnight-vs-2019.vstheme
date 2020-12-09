@@ -155,7 +155,7 @@
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95E8D3" />
+        <Foreground Type="CT_RAW" Source="FFA1EDDB" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -163,11 +163,11 @@
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF86D8A7" />
+        <Foreground Type="CT_RAW" Source="FF8EE5C4" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF69C2C0" />
+        <Foreground Type="CT_RAW" Source="FF7ACFCC" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -335,7 +335,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA0D4E8" />
+        <Foreground Type="CT_RAW" Source="FF8DE6F7" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
