@@ -7982,11 +7982,11 @@
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="Track Changes before save">
-        <Background Type="CT_RAW" Source="FFEFF284" />
+        <Background Type="CT_RAW" Source="FFFBE6A4" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Track Changes after save">
-        <Background Type="CT_RAW" Source="FF577430" />
+        <Background Type="CT_RAW" Source="FF4DC9B0" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Brace Matching (Rectangle)">
