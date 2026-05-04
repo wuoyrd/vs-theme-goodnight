@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/.solution-items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/assets/">
+    <File Path="assets/logo.png" />
+    <File Path="assets/preview.png" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Goodnight/Goodnight.csproj" Id="bc3c25e3-0e91-4d60-a813-dcf1a6242833" />
+  </Folder>
+</Solution>
