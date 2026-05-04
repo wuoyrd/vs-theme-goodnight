@@ -69,27 +69,138 @@
       <Color Name="SystemFillSuccess">
         <Background Type="CT_RAW" Source="FF40E677" />
       </Color>
+      <!-- StatusBar -->
+      <Color Name="StatusBarFillBuildingBackground">
+        <Background Type="CT_RAW" Source="FFFABE70" />
+      </Color>
+      <Color Name="StatusBarFillBuildingText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillDebuggingBackground">
+        <Background Type="CT_RAW" Source="FFEB525F" />
+      </Color>
+      <Color Name="StatusBarFillDebuggingText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillNoSolutionBackground">
+        <Background Type="CT_RAW" Source="FF4CC69D" />
+      </Color>
+      <Color Name="StatusBarFillNoSolutionText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillRestBackground">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <Color Name="StatusBarFillRestText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
     </Category>
 
     <!-- IDE frame / chrome / branding -->
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
+      <!-- ToolBar -->
+      <Color Name="ToolBarBackground">
+        <Background Type="CT_RAW" Source="FF3C3E42" />
+      </Color>
+      <Color Name="ToolBarBorder">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <!-- Environment -->
       <Color Name="EnvironmentBackground">
         <Background Type="CT_RAW" Source="FF3C3E42" />
+      </Color>
+      <Color Name="EnvironmentBadge">
+        <Background Type="CT_RAW" Source="FF343638" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF67A6E6" />
       </Color>
+      <Color Name="EnvironmentBorderInactive">
+        <Background Type="CT_RAW" Source="0067A6E6" />
+      </Color>
       <Color Name="EnvironmentIndicator">
         <Background Type="CT_RAW" Source="8067A6E6" />
-      </Color>
-      <Color Name="EnvironmentLogo">
-        <Background Type="CT_RAW" Source="FF67A6E6" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
         <Background Type="CT_RAW" Source="FF343638" />
       </Color>
-      <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="FF343638" />
+      <Color Name="EnvironmentLayeredBorder">
+        <Background Type="CT_RAW" Source="0067A6E6" />
+      </Color>
+      <Color Name="EnvironmentLogo">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <!-- StatusBarFill -->
+      <Color Name="StatusBarControlFill">
+        <Background Type="CT_RAW" Source="20FFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillBuildingBackground">
+        <Background Type="CT_RAW" Source="FFFABE70" />
+      </Color>
+      <Color Name="StatusBarFillBuildingText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillDebuggingBackground">
+        <Background Type="CT_RAW" Source="FFEB525F" />
+      </Color>
+      <Color Name="StatusBarFillDebuggingText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillNoSolutionBackground">
+        <Background Type="CT_RAW" Source="FF4CC69D" />
+      </Color>
+      <Color Name="StatusBarFillNoSolutionText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarFillRestBackground">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <Color Name="StatusBarFillRestText">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <!-- StatusBar -->
+      <Color Name="StatusBarTextFillDisabled">
+        <Background Type="CT_RAW" Source="FF5F5F5F" />
+      </Color>
+      <Color Name="StatusBarBackgroundFillBuilding">
+        <Background Type="CT_RAW" Source="FFFABE70" />
+      </Color>
+      <Color Name="StatusBarBackgroundFillDebugging">
+        <Background Type="CT_RAW" Source="FFEB525F" />
+      </Color>
+      <Color Name="StatusBarBackgroundFillRest">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <Color Name="StatusBarBackgroundFillSolutionLoading">
+        <Background Type="CT_RAW" Source="FF4CC69D" />
+      </Color>
+      <Color Name="StatusBarControlFillSecondary">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="StatusBarTextFillBuilding">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarTextFillDebugging">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarTextFillRest">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="StatusBarTextFillSolutionLoading">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <!-- CaptionControl -->
+      <Color Name="CaptionControlCloseFillPrimary">
+        <Background Type="CT_RAW" Source="FFEB354B" />
+      </Color>
+      <Color Name="CaptionControlCloseFillSecondary">
+        <Background Type="CT_RAW" Source="E6EB354B" />
+      </Color>
+      <Color Name="CaptionControlCloseTextFillPrimary">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="CaptionControlCloseTextFillSecondary">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
 
@@ -655,6 +766,15 @@
       </Color>
       <Color Name="FileTabSelectedGradientMiddle2">
         <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
+      <Color Name="FileTabActiveGroupBackground">
+        <Background Type="CT_RAW" Source="FF3C3E42" />
+      </Color>
+      <Color Name="FileTabActiveGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF3C3E42" />
+      </Color>
+      <Color Name="FileTabGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF3F4244" />
       </Color>
       <Color Name="NewProjectBackground">
         <Background Type="CT_RAW" Source="FF404247" />
@@ -3621,7 +3741,8 @@
       </Color>
       <!-- Line -->
       <Color Name="CurrentLineActiveFormat">
-        <Foreground Type="CT_RAW" Source="FF464646" />
+        <Background Type="CT_RAW" Source="FF68717E" />
+        <Foreground Type="CT_RAW" Source="FF68717E" />
       </Color>
       <Color Name="FileLineClassificationFormat">
         <Foreground Type="CT_RAW" Source="FFD85050" />
