@@ -12,7 +12,7 @@ namespace GoodnightTheme
         public const string Name = "Goodnight Theme";
         public const string Description = @"Goodnight Theme brings a moonlit palette to Visual Studio, blending soft night-sky grays with cool structural hues and gentle warm highlights in a polished dark theme designed for comfortable long coding sessions.";
         public const string Language = "en-US";
-        public const string Version = "2.0.1";
+        public const string Version = "2.0.2";
         public const string Author = "Wuoyrd";
         public const string Tags = "dark, theme, goodnight, night, nighttime, moon, moonlit, moonlight, slate, blue-gray, cyan, teal, coral, modern, polished, focus, muted, low-glare, low-contrast, readable, readability, editor, coding, developer, visual studio, visual studio theme";
         public const bool IsPreview = false;

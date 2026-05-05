@@ -28,6 +28,9 @@
         <Background Type="CT_RAW" Source="FF343638" />
       </Color>
 
+      <Color Name="TextFillAccent">
+        <Background Type="CT_RAW" Source="FF67A6E6" />
+      </Color>
       <Color Name="TextFillPrimary">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
@@ -57,9 +60,6 @@
         <Background Type="CT_RAW" Source="FF67A6E6" />
       </Color>
 
-      <Color Name="TextFillAccent">
-        <Background Type="CT_RAW" Source="FF67A6E6" />
-      </Color>
       <Color Name="SystemFillCritical">
         <Background Type="CT_RAW" Source="FFfF454E" />
       </Color>
@@ -71,7 +71,7 @@
       </Color>
       <!-- StatusBar -->
       <Color Name="StatusBarFillBuildingBackground">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
       </Color>
       <Color Name="StatusBarFillBuildingText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -135,7 +135,7 @@
         <Background Type="CT_RAW" Source="20FFFFFF" />
       </Color>
       <Color Name="StatusBarFillBuildingBackground">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
       </Color>
       <Color Name="StatusBarFillBuildingText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -163,7 +163,7 @@
         <Background Type="CT_RAW" Source="FF5F5F5F" />
       </Color>
       <Color Name="StatusBarBackgroundFillBuilding">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
       </Color>
       <Color Name="StatusBarBackgroundFillDebugging">
         <Background Type="CT_RAW" Source="FFEB525F" />
@@ -2188,7 +2188,7 @@
         <Background Type="CT_RAW" Source="FF4CC69D" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StatusBarDebugging">
@@ -2200,7 +2200,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
         <Background Type="CT_RAW" Source="FFEB525F" />
@@ -2251,7 +2251,7 @@
         <Background Type="CT_RAW" Source="FF67A6E6" />
       </Color>
       <Color Name="MainWindowActiveIconBuilding">
-        <Background Type="CT_RAW" Source="FFFABE70" />
+        <Background Type="CT_RAW" Source="FFFAAA41" />
       </Color>
       <Color Name="MainWindowActiveIconDebugging">
         <Background Type="CT_RAW" Source="FFEB525F" />
@@ -3742,7 +3742,7 @@
       <!-- Line -->
       <Color Name="CurrentLineActiveFormat">
         <Background Type="CT_RAW" Source="FF68717E" />
-        <Foreground Type="CT_RAW" Source="FF68717E" />
+        <Foreground Type="CT_RAW" Source="0068717E" />
       </Color>
       <Color Name="FileLineClassificationFormat">
         <Foreground Type="CT_RAW" Source="FFD85050" />
@@ -3784,7 +3784,7 @@
         <Background Type="CT_RAW" Source="FF5F95FA" />
       </Color>
       <Color Name="Block Structure Adornments">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF4A4B4F" />
       </Color>
       <Color Name="RenameTrackingTag">
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
