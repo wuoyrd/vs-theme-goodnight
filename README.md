@@ -1,6 +1,6 @@
 <div align="center">
   
-<img height="128" src="assets/logo.svg#gh-dark-mode-only">
+<img height="132" src="assets/logo.svg#gh-dark-mode-only">
 <img height="128" src="assets/logo-light.svg#gh-light-mode-only">
 
 # Goodnight Theme
