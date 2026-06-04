@@ -1,34 +1,22 @@
-############################################################################
-#                                                                          #
-#                                CORE RULES                                #
-#                                                                          #
-############################################################################
-
 root = true
 
 [*]
 indent_style = space
+indent_size = 2
+insert_final_newline = true
+charset = utf-8
 
 # Code files
 [*.{cs,csx,vb,vbx}]
 indent_size = 4
-insert_final_newline = true
-charset = utf-8-bom
 
-[*.sln]
-indent_style = tab
-
-# XML project files
-[*.{csproj,vcxproj.filters,proj,projitems,shproj}]
-indent_size = 4
-
-# XML config files
-[*.{xml,config,props,targets,nuspec,resx,ruleset,vsixmanifest,vsct}]
-indent_size = 4
+# XML (all VS + config-related XML formats)
+[*.{xml,config,csproj,csproj.user,vcxproj.filters,proj,projitems,shproj,nuspec,resx,ruleset,vsixmanifest,vsct,vstheme,props,targets}]
+indent_size = 2
 
 # JSON files
 [*.{json,json5,webmanifest}]
-indent_size = 4
+indent_size = 2
 
 # YAML files
 [*.{yml,yaml}]
@@ -40,12 +28,15 @@ trim_trailing_whitespace = false
 
 # Web files
 [*.{htm,html,js,jsm,ts,tsx,css,sass,scss,less,svg,vue}]
-indent_size = 4
+indent_size = 2
 
+# Windows scripts
 [*.{cmd,bat}]
 end_of_line = crlf
+indent_style = space
+indent_size = 2
 
-# Shell script files
+# Shell scripts
 [*.sh]
 end_of_line = lf
-indent_size = 4
+indent_size = 2
