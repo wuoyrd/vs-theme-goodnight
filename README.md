@@ -1,9 +1,10 @@
-<div align="center">
-  
-<img height="132" src="assets/logo.svg#gh-dark-mode-only">
-<img height="128" src="assets/logo-light.svg#gh-light-mode-only">
+<h1 align="center">
+  <img height="132" alt="Logo" src="assets/logo.svg#gh-dark-mode-only"/>
+  <img height="128" alt="Logo" src="assets/logo-light.svg#gh-light-mode-only"/><br>
+  Goodnight Theme
+</h1>
 
-# Goodnight Theme
+<div align="center">
 
 Goodnight Theme brings a moonlit palette to Visual Studio, blending soft night-sky grays with cool structural hues and gentle warm highlights in a polished dark theme designed for comfortable long coding sessions.
 
@@ -35,12 +36,12 @@ Enjoying the theme? A kind word, a star, or a coffee are all appreciated: [buy m
 This theme is licensed under the [MIT License](./LICENSE).
 
 [stars-url]: https://github.com/wuoyrd/vs-theme-goodnight/stargazers
-[stars-img]: https://img.shields.io/github/stars/wuoyrd/vs-theme-goodnight?style=flat&color=3399FF
+[stars-img]: https://img.shields.io/github/stars/wuoyrd/vs-theme-goodnight?style=flat&colorA=3C3E42&colorB=CA98EB
 [latest-url]: https://github.com/wuoyrd/vs-theme-goodnight/releases/latest
-[latest-img]: https://vsmarketplacebadges.dev/version-short/wuoyrd.goodnight.svg?label=latest&color=2bb95b
+[latest-img]: https://vsmarketplacebadges.dev/version-short/wuoyrd.goodnight.svg?label=latest&colorA=3C3E42&colorB=57A6E6
 [installs-url]: https://marketplace.visualstudio.com/items?itemName=wuoyrd.goodnight
-[installs-img]: https://vsmarketplacebadges.dev/installs-short/wuoyrd.goodnight.svg?color=FF8856
+[installs-img]: https://vsmarketplacebadges.dev/installs-short/wuoyrd.goodnight.svg?colorA=3C3E42&colorB=2BBC8A
 [issues-url]: https://github.com/wuoyrd/vs-theme-goodnight/issues
-[issues-img]: https://img.shields.io/github/issues/wuoyrd/vs-theme-goodnight.svg?color=EB525F
+[issues-img]: https://img.shields.io/github/issues/wuoyrd/vs-theme-goodnight.svg?colorA=3C3E42&colorB=FF976b
 [license-url]: https://github.com/wuoyrd/vs-theme-goodnight/blob/main/LICENSE
-[license-img]: https://img.shields.io/github/license/wuoyrd/vs-theme-goodnight?color=22272e
+[license-img]: https://img.shields.io/github/license/wuoyrd/vs-theme-goodnight?colorA=3C3E42&colorB=EB525F
