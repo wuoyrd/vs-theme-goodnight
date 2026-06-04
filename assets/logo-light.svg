@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
   <defs>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color: rgb(239, 242, 245);"/>
+    </linearGradient>
     <linearGradient id="gradient-2">
       <title>Outer Crescent (Gradient)</title>
       <stop offset="0" style="stop-color: rgb(254, 245, 184);"/>
       <stop offset="1" style="stop-color: rgb(254, 236, 175);"/>
     </linearGradient>
     <linearGradient gradientUnits="userSpaceOnUse" x1="649.854" y1="105.679" x2="649.854" y2="233.24" id="gradient-2-0" href="#gradient-2" spreadMethod="repeat"/>
-    <linearGradient id="gradient-1" bx:pinned="true">
+    <linearGradient id="gradient-1">
       <title>Background</title>
       <stop offset="0.5" style="stop-color: rgb(56, 59, 66);"/>
       <stop offset="1" style="stop-color: rgb(42, 43, 46);"/>
     </linearGradient>
-    <radialGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="177.041" cy="160.23" r="177.041" gradientTransform="matrix(1.412102, 0, 0, 1.560253, 0, 0)"/>
-    <radialGradient id="gradient-1-1" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="250" cy="250" r="250" gradientTransform="matrix(0.999998, 0, 0, 0.999998, 0.000418, -0.000309)"/>
+    <radialGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="177.041" cy="160.23" r="177.041" gradientTransform="matrix(1.412102, 0, 0, 1.560253, 0.003723, -0.000261)"/>
+    <radialGradient id="gradient-1-1" href="#gradient-1" gradientUnits="userSpaceOnUse" cx="250" cy="250" r="250" gradientTransform="matrix(0.999998, 0, 0, 0.999998, 0.001129, -0.000572)"/>
   </defs>
-  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-1-0&quot;); visibility: hidden;"/>
-  <ellipse style="fill: url(&quot;#gradient-1-1&quot;);" cx="250" cy="250" rx="250" ry="250"/>
-  <g transform="matrix(0.854849, 0, 0, 0.854849, -293.930145, 57.018852)" style="">
+  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-1-0&quot;); visibility: hidden; stroke-width: 1;" x="-0.001"/>
+  <ellipse style="fill: url(&quot;#gradient-1-1&quot;); stroke-width: 1;" cx="250" cy="250" rx="250" ry="250"/>
+  <g transform="matrix(0.854849, 0, 0, 0.854849, -298.065373, 40.364415)" style="">
     <title>Goodnight Logo</title>
     <g style="filter: drop-shadow(rgba(254, 222, 137, 0.4) 0px 0px 4px);" transform="matrix(2.79438, 0, 0, 2.796596, -1179.405291, -247.82439)">
       <title>Crescent Moon</title>
       <path id="path30" style="display: inline; opacity: 1; filter: drop-shadow(rgba(252, 249, 240, 0.35) 0px 0px 15px); stroke-linecap: round; stroke-linejoin: round; fill: url(&quot;#gradient-2-0&quot;); paint-order: stroke; vector-effect: non-scaling-stroke; stroke-width: 5px;" d="M 659.8 105.679 C 672.444 116.257 679.733 131.773 679.733 148.114 C 679.733 178.861 654.431 203.785 623.221 203.785 C 609.509 203.785 596.263 198.873 585.955 189.964 C 585.94 189.951 585.925 189.938 585.91 189.925 C 595.061 215.847 620.015 233.24 648.054 233.24 C 684.364 233.24 713.798 204.453 713.798 168.942 C 713.798 138.408 691.84 112.085 661.255 105.954 C 660.771 105.857 660.286 105.765 659.8 105.679 Z M 672 115.191 C 675.193 118.715 677.943 122.633 680.188 126.853 C 677.943 122.633 675.193 118.715 672 115.191 Z">
         <title>Outer Crescent</title>
       </path>
-      <path style="display: inline; fill: rgb(254, 254, 227); filter: drop-shadow(rgba(254, 254, 254, 0.2) 0px 0px 4px); stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; stroke-width: 5px;" id="path5" d="M 661.226 105.735 C 660.739 105.638 660.253 105.545 659.765 105.46 C 672.458 116.068 679.775 131.63 679.775 148.019 C 679.775 178.853 654.376 203.851 623.046 203.851 C 609.28 203.851 595.984 198.924 585.635 189.988 C 596.385 204.091 612.902 212.338 630.398 212.338 C 661.728 212.338 687.126 186.391 687.126 154.384 C 687.126 134.73 677.378 116.416 661.226 105.735 Z">
+      <path style="display: inline; fill: rgb(254, 254, 227); filter: drop-shadow(rgba(254, 254, 254, 0.2) 0px 0px 4px); stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; stroke-width: 5px;" id="path5" d="M 661.183 105.939 C 660.696 105.842 660.288 105.764 659.8 105.679 C 672.139 116.452 679.775 131.63 679.775 148.019 C 679.775 178.853 654.525 203.578 623.195 203.578 C 609.429 203.578 596.259 198.861 585.91 189.925 C 596.66 204.028 612.902 212.338 630.398 212.338 C 661.728 212.338 687.126 186.391 687.126 154.384 C 687.126 134.73 677.335 116.62 661.183 105.939 Z">
         <title>Inner Crescent</title>
       </path>
     </g>
