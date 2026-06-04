@@ -7,7 +7,8 @@
     <File Path="README.md" />
   </Folder>
   <Folder Name="/assets/">
-    <File Path="assets/logo.png" />
+    <File Path="assets/logo.svg" />
+    <File Path="assets/logo-light.svg" />
     <File Path="assets/preview.png" />
   </Folder>
   <Folder Name="/src/">
